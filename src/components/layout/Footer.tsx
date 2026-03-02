@@ -5,7 +5,7 @@ export function Footer() {
         <div className="flex flex-col items-center gap-2 text-center text-sm text-stone-400">
           <p className="font-semibold text-amber-400">Basecamp Supply</p>
           <p>Example merchant site — for demonstration purposes only.</p>
-          <p>© {new Date().getFullYear()} Paze. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Demo. All rights reserved.</p>
         </div>
       </div>
     </footer>
